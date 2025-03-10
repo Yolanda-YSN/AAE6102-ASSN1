@@ -131,7 +131,7 @@ Pseudorange measurements obtained from the tracking phase are utilized in a Weig
 
 **The plot of receiver’s position calculated by least square method and weighted least square method:**
 
-- [Least Square vs Weighted Least Square](path_to_image)
+- [Least Square vs Weighted Least Square](https://github.com/Yolanda-YSN/ASSN1-IMAG-GALLER)
 
 **Velocity:**
 
@@ -185,10 +185,10 @@ To enhance positioning accuracy, an Extended Kalman Filter (EKF) is developed us
 **The position processing is written in the `postnavigation.m` file.**
 
 **EKF results in Open Sky:**
-- [EKF Open Sky Results](path_to_image)
+- [EKF Open Sky Results](opensky2.png)
 
 **EKF results in Urban:**
-- [EKF Urban Results](path_to_image)
+- [EKF Urban Results](U1.png)
 
 ## Conclusion
 
