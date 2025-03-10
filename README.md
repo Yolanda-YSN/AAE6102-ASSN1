@@ -139,7 +139,7 @@ The receiver's velocity at each epoch is calculated using the WLSX, WLSY, and WL
 
 **The velocity is plotted as below:**
 
-- [Velocity Plot](path_to_image)
+- [Velocity Plot](https://github.com/Yolanda-YSN/ASSN1-IMAG-GALLERY)
 
 **The position results calculated using the weighted least square method are converted to geodetic coordinates to compare with the ground truth:**
 
